@@ -6,3 +6,4 @@ y = 2
 def adder(x,y):
     return x+y
 
+adder(x,y)
